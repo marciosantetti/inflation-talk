@@ -4,4 +4,4 @@ Lecture on inflation (why's, who's, and how's), given at Lawrence University (Ap
 Slide template inspired by [Andrew Heiss](https://github.com/andrewheiss)'s amazing .css template, using the `xaringan` R package.
 
 
-**Slides**: [html(https://raw.githack.com/marciosantetti/inflation-talk/main/inflation-2022.html) | [PDF](https://raw.githack.com/marciosantetti/inflation-talk/main/inflation-2022.pdf)
+**Slides**: [html](https://raw.githack.com/marciosantetti/inflation-talk/main/inflation-2022.html) | [PDF](https://raw.githack.com/marciosantetti/inflation-talk/main/inflation-2022.pdf)
